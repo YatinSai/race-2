@@ -1,5 +1,5 @@
 var canvas, backgroundImage;
-
+var car
 var gameState = 0;
 var playerCount;
 var allPlayers;
