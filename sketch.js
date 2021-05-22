@@ -41,4 +41,6 @@ function draw(){
   if(gameState === 2){
     game.end();
   }
+
+  console.log('checking git-hub commands')
 }
